@@ -12,5 +12,7 @@ String datapub;
 
 void dadosLivros() {
     System.out.println("Nome do livro " + nome);
+    System.out.println("preco " + preco);
+    System.out.println("descricao " + descricao);
 }
 }
